@@ -1,5 +1,5 @@
 import java.util.Scanner; //importing the required package
-public class TakingInput03 {
+public class a_03_TakingInput {
     public static void main(String[] args) {
 /*Taking User from input is simple task in Java but just a little lengthy
 *  1. We need to import java.util.Scanner package. Scanner class is useful in taking the input of the user.
