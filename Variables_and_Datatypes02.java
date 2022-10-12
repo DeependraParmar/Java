@@ -1,4 +1,4 @@
-public class Vaiables_and_Datatypes02 {
+public class Variables_and_Datatypes02 {
     public static void main(String[] args) {
 //        Variables are the container that are memory allocations capable of storing data in the memory
 //        Datatype are basically identifiers that are responsible to identify the type of the data that is to be inserted
